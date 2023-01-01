@@ -1,0 +1,217 @@
+####################################################################################################
+
+Enter
+[1]Add Element
+[2]Remove Previous Element
+[3]Display Quantity of Elements
+[4]Call previously added Element
+[5]Display All Elements
+[0]Exit
+[1]
+I
+
+
+
+
+
+
+
+
+
+
+
+####################################################################################################
+
+Enter
+[1]Add Element
+[2]Remove Previous Element
+[3]Display Quantity of Elements
+[4]Call previously added Element
+[5]Display All Elements
+[0]Exit
+[1]
+H
+
+
+
+
+
+
+
+
+
+
+
+####################################################################################################
+
+Enter
+[1]Add Element
+[2]Remove Previous Element
+[3]Display Quantity of Elements
+[4]Call previously added Element
+[5]Display All Elements
+[0]Exit
+[1]
+---
+
+
+
+
+
+
+
+
+
+
+
+####################################################################################################
+
+Enter
+[1]Add Element
+[2]Remove Previous Element
+[3]Display Quantity of Elements
+[4]Call previously added Element
+[5]Display All Elements
+[0]Exit
+[1]
+H
+
+
+
+
+
+
+
+
+
+
+
+####################################################################################################
+
+Enter
+[1]Add Element
+[2]Remove Previous Element
+[3]Display Quantity of Elements
+[4]Call previously added Element
+[5]Display All Elements
+[0]Exit
+[1]
+I
+
+
+
+
+
+
+
+
+
+
+
+####################################################################################################
+
+Enter
+[1]Add Element
+[2]Remove Previous Element
+[3]Display Quantity of Elements
+[4]Call previously added Element
+[5]Display All Elements
+[0]Exit
+[5]
+
+
+
+
+
+
+
+
+
+
+
+I
+H
+---
+H
+I
+####################################################################################################
+
+Enter
+[1]Add Element
+[2]Remove Previous Element
+[3]Display Quantity of Elements
+[4]Call previously added Element
+[5]Display All Elements
+[0]Exit
+[2]
+
+
+
+
+
+
+
+
+
+
+
+####################################################################################################
+
+Enter
+[1]Add Element
+[2]Remove Previous Element
+[3]Display Quantity of Elements
+[4]Call previously added Element
+[5]Display All Elements
+[0]Exit
+[3]
+
+
+
+
+
+
+
+
+
+
+
+Quantity: 4
+
+####################################################################################################
+
+Enter
+[1]Add Element
+[2]Remove Previous Element
+[3]Display Quantity of Elements
+[4]Call previously added Element
+[5]Display All Elements
+[0]Exit
+[5]
+
+
+
+
+
+
+
+
+
+
+
+H
+---
+H
+I
+####################################################################################################
+
+Enter
+[1]Add Element
+[2]Remove Previous Element
+[3]Display Quantity of Elements
+[4]Call previously added Element
+[5]Display All Elements
+[0]Exit
+[0]
+
+Process finished with exit code 0
